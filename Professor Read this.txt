@@ -1,0 +1,7 @@
+Used Tomcat 9 with Java Eclipse EE
+
+Must use browser in order for it to work
+
+All Code located in .../WebContent/app.js and .../WebContent/index.html
+
+Please email me if you have problems running the web server --> xu312255@gmail.com
